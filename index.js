@@ -31,6 +31,16 @@ var questions = [
 		question: 'Which Indian player has scored the fastest hundred in the IPL?',
     options: ['Yusuf Pathan', 'Virat Kohli', 'Mayank Agarwal'],
 		answer: '1'
+	},
+  {
+		question: 'Which team won ipl in 2018?',
+    options: ['CSK', 'MI', 'SRH'],
+		answer: '1'
+	},
+  {
+		question: 'Which team won ipl in 2020?',
+    options: ['CSK', 'MI', 'SRH'],
+		answer: '2'
 	}
 ];
 
