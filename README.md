@@ -8,6 +8,11 @@ Tech Stack:
 Javascript Node JS
 ```
 
+### How to Use
+ - Enter Your Name
+ - Answer the questions
+ - Score will be displayed In End
+
 ### Demo Link:
 
 https://replit.com/@AshutoshKumar23/mark-two-ipl-quiz#index.js
